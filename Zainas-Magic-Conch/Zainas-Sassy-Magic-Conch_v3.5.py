@@ -102,5 +102,5 @@ def mainLoop():
 		run=checkEntry(entry)
 	
 		
-print("Welcome, Zaina! Ask me your questions, or enter '/help' for a list of options.")
+print("Welcome! Ask me your questions, or enter '/help' for a list of options.")
 mainLoop()
