@@ -1,4 +1,7 @@
 import random
+#--TO DO---
+#Make a UI
+#Simplify some of these features maybe using classes
 
 #reads the list of responses from 'possibleresponses.txt'
 #returns them in a list called responses
